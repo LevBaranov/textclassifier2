@@ -1,8 +1,4 @@
 # Text classifier 2
-[![Build Status](https://travis-ci.org/LevBaranov/textclassifier2.svg?branch=master)](https://travis-ci.org/LevBaranov/textclassifier2)
-[![codecov](https://codecov.io/gh/LevBaranov/textclassifier2/branch/master/graph/badge.svg)](https://codecov.io/gh/LevBaranov/textclassifier2)
-[![BCH compliance](https://bettercodehub.com/edge/badge/LevBaranov/textclassifier2?branch=master)](https://bettercodehub.com/)
-[![Join the chat at https://gitter.im/V8LogScannerWeb/Lobby?source=orgpage](https://badges.gitter.im/TextClassifier2/TextClassifier2.svg)](https://gitter.im/TextClassifier2/Lobby?source=orgpage) 
 
 Service for text classification using several classifier algorithms including neural networks, naive bayes etc.
 Source of inspiration was taken from https://github.com/RusZ/TextClassifier.
